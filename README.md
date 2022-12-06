@@ -1,3 +1,3 @@
 ![](movingBackground.gif)
 
-![](parallax.gif)
+![](parallax2.gif)
